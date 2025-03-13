@@ -13,28 +13,37 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-# 💫 About Me:
-I am a python developer and digital artist, if you wonder how can I say that I am a digital artist but also a python developer is because I came from a Design and Cinematography background, I joined the VFX industry  and is there where I learn how to use python and i got  in love with the programing side of the things becoming a technical artist.
+-->![Hola, Bonjour, Hi! 🤙](https://private-user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjcyNzA2ODcsIm5iZiI6MTcyNzI3MDM4NywicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4MzQtNzI5MDMzMjQtY2Y1Ny00ZTkwLTgwYTYtZWQzYzk3MzRlMGVkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTI1VDEzMTk0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFiMzQ0MDY3OGNlNjBlOWMzNjNmMzM0MTAzYzFhNWY0NTM3M2U5YmM2ZDUwODBlNjNkYzE2MzY3YTQ0ZDZhM2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.zvZP1jlY_Aiu_QqmtYhfivhG32o8wjD0Wi30um30vuY)
 
+![Profile views](https://komarev.com/ghpvc/?username=ronnyascencio&label=Profile%20views&color=0e75b6&style=flat)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ronnyascencio) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ronnycompartist@gmail.com) 
+<div id="toc">
+  <ul align="right" style="list-style: none">
+    <summary>
+      <h1>
+        Hola, Bonjour, Hi! 🤙
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ronnyascencio&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ronnyascencio&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ronnyascencio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/ronnyascencio" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/ronnyascencio" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ronnyascencio&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+ **<h3 align="left">I am a python developer and digital artist, if you wonder how can I say that I am a digital artist but also a python developer is because I came from a Design and Cinematography background, I joined the VFX industry and is there where I learn how to use python and i got in love with the programing side of the things becoming a technical artist.</h3>**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**<h3 align="left">Rapid Fire</h3>**
 
----
-[![](https://visitcount.itsvg.in/api?id=ronnyascencio&icon=0&color=0)](https://visitcount.itsvg.in)
+- 💼 I'm currently working on: **💻 Working in develop  a project vfx manager**
+- 🌱 I'm currently learning: **📚  Astro, javascript to keep learning Forntend**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ **<h3 align="left">Skills</h3>**
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="32" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="32" alt="Prisma" style="margin-right: 4px"> <img src="https://img.shields.io/badge/GSAP-00D084?logo=gsap&logoColor=white" height="32" alt="GSAP" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="32" alt="Express" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="32" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="32" alt="Python" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=python" height="32" alt="Python" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=bash" height="32" alt="Bash" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=astro" height="32" alt="Astro" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=bootstrap" height="32" alt="Bootstrap" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=fastapi" height="32" alt="FastAPI" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=flask" height="32" alt="Flask" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=django" height="32" alt="Django" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=mongodb" height="32" alt="MongoDB" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=postgresql" height="32" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=sqlite" height="32" alt="SQLite" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=docker" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=aws" height="32" alt="AWS" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=blender" height="32" alt="Blender" style="margin-right: 4px"></div>
+
+ **<h3 align="left">GitHub Stats</h3>**
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilmagare10&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+</p>
+
