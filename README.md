@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/ronnyascencio" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/ronnyascencio" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">I am a python developer and digital artist, if you wonder how can I say that I am a digital artist but also a python developer is because I came from a Design and Cinematography background, I joined the VFX industry and is there where I learn how to use python and i got in love with the programing side of the things becoming a technical artist.</h3>**
+ **<h3 align="left">PYTHON DEVELOPER AND DIGITAL ARTIST, MEXICAN BASED IN
+                        MONTREAL, QC WORKING IN VFX INDUSTRY AND NOW IN
+                        TECHNOLOGY INDUSTRY TO GRAB THE ART MATCH CODE...</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
