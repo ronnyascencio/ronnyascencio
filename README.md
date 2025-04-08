@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Working in develop  a project vfx manager, DeepLyric Analyzer**
+- 💼 I'm currently working on: **💻 Working in develop  a photographer asset manager (PAM) webapp**
 - 🌱 I'm currently learning: **📚  Astro, javascript to keep learning Forntend**
 
  **<h3 align="left">Skills</h3>**
