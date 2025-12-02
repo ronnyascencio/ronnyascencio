@@ -30,13 +30,13 @@ Here are some ideas to get you started:
 <p align="left"><a href="https://www.linkedin.com/in/ronnyascencio" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/ronnyascencio" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">PYTHON DEVELOPER AND DIGITAL ARTIST, MEXICAN BASED IN
-                        MONTREAL, QC WORKING IN VFX INDUSTRY AND NOW IN
-                        TECHNOLOGY INDUSTRY TO GRAB THE ART MATCH CODE...</h3>**
+                        MONTREAL, QC WORKING IN VFX INDUSTRY I LOVE TO
+                        GRAB THE ART MATCH CODE...</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Working in develop  a vfx pipeline xolo-pipeline**
-- 🌱 I'm currently learning: **📚  Astro, javascript to keep learning Forntend**
+- 🌱 I'm currently learning: **📚  OpenUSD, Lighitng, lookdevelopment as a technical artist**
 
  **<h3 align="left">Skills</h3>**
 
