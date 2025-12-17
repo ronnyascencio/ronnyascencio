@@ -1,50 +1,63 @@
+# Ronny Ascencio | Technical Artist & Python Pipeline Developer (VFX)
+
+> **Salut, Bonjour, Hello!** I'm Ronny.
+>
+> A **Technical Artist** and aspiring **Python Pipeline Developer** based in Montreal, QC. My foundation in film production (Compositing, Cinematography) allows me to understand artistic needs, which I now solve by building efficient, production-ready tools with **Python**. My passion is bridging creativity and code in the VFX industry.
+
+---
+
+## 🛠️ Focus & Featured Project: xolo-pipeline
+
+This project demonstrates my commitment and technical ability to create robust solutions for production environments.
+
+### **xolo-pipeline** (The Core of My Work)
+
+A personal **Python-based pipeline framework** focused on solving common workflow issues in VFX (like asset versioning and tool management). This framework is a working demonstration of my abilities in automation and backend development.
+
+* **Demonstrating Skills In:** Pipeline Logic, Tool Automation, Database Integration (PostgreSQL), and UI Development.
+* **Key Technologies:** Python, PostgreSQL, OpenUSD (Learning).
+* **Status:** Proof-of-Concept & Active Development.
+* 🔗 **[Explore the Repository](https://github.com/xololab/xolo-pipeline)**
+
+---
+
+## 💻 Technical Expertise
+
+My skills are laser-focused on development and automation within the VFX workflow.
+
+| Category | Key Skills & Technologies |
+| :--- | :--- |
+| **VFX / TD** | Pipeline Tools (Python), **OpenUSD** (Learning), Blender, Foundry Nuke, GafferHQ, Lookdev/Lighting, Technical Art, Production Workflow. |
+| **Backend** | Python, FastAPI, Flask, Django (Foundations), PostgreSQL, SQLite. |
+| **Tools** | Git, Bash Scripting. |
 
 
-<!--
-**ronnyascencio/ronnyascencio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Profile views](https://komarev.com/ghpvc/?username=ronnyascencio&label=Profile%20views&color=0e75b6&style=flat)
+---
 
-<div id="toc">
-  <ul align="right" style="list-style: none">
-    <summary>
-      <h1>
-        Hola, Bonjour, Hi! 🤙
-      </h1>
-    </summary>
-  </ul>
-</div>
-
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://www.linkedin.com/in/ronnyascencio" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/ronnyascencio" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
-
- **<h3 align="left">PYTHON DEVELOPER AND DIGITAL ARTIST, MEXICAN BASED IN
-                        MONTREAL, QC WORKING IN VFX INDUSTRY I LOVE TO
-                        GRAB THE ART MATCH CODE...</h3>**
-
-**<h3 align="left">Rapid Fire</h3>**
-
-- 💼 I'm currently working on: **💻 Working in develop  a vfx pipeline xolo-pipeline**
-- 🌱 I'm currently learning: **📚  OpenUSD, Lighitng, lookdevelopment as a technical artist**
-
- **<h3 align="left">Skills</h3>**
-
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://skillicons.dev/icons?i=python" height="32" alt="Python" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=bash" height="32" alt="Bash" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=bootstrap" height="32" alt="Bootstrap" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=fastapi" height="32" alt="FastAPI" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=flask" height="32" alt="Flask" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=django" height="32" alt="Django" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=postgresql" height="32" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=sqlite" height="32" alt="SQLite" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=docker" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=aws" height="32" alt="AWS" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=blender" height="32" alt="Blender" style="margin-right: 4px"></div>
-
- **<h3 align="left">GitHub Stats</h3>**
+## 📈 Activity & Connect
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronnyascencio&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ronnyascencio&show_icons=true&theme=quiet&hide_title=true&count_private=true" alt="Ronny's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronnyascencio&theme=quiet&hide_title=true&layout=compact&langs_count=6&hide_progress=false" alt="Ronny's Top Languages" />
 </p>
 
+### 🌐 Let's Connect
+
+I am actively looking for roles as a **Technical Artist** or **Pipeline Developer** where I can apply my unique blend of artistic insight and Python development skills.
+
+I speak **English, French, and Spanish**.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ronnyascencio" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://ronnyascencio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-555555?style=flat-square&logo=About.me&logoColor=white" alt="Website">
+  </a>
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ronnyascencio&label=Profile%20views&color=4C566A&style=flat" alt="Profile views" />
+</p>
