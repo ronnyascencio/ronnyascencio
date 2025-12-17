@@ -1,63 +1,133 @@
-# Ronny Ascencio | Technical Artist & Python Pipeline Developer (VFX)
+![Profile views](https://komarev.com/ghpvc/?username=ronnyascencio&label=Profile%20views&color=0e75b6&style=flat)
 
-> **Salut, Bonjour, Hello!** I'm Ronny.
->
-> A **Technical Artist** and aspiring **Python Pipeline Developer** based in Montreal, QC. My foundation in film production (Compositing, Cinematography) allows me to understand artistic needs, which I now solve by building efficient, production-ready tools with **Python**. My passion is bridging creativity and code in the VFX industry.
+# Hola, Bonjour, Hi 👋  
+### I'm Ronny Ascencio
 
----
-
-## 🛠️ Focus & Featured Project: xolo-pipeline
-
-This project demonstrates my commitment and technical ability to create robust solutions for production environments.
-
-### **xolo-pipeline** (The Core of My Work)
-
-A personal **Python-based pipeline framework** focused on solving common workflow issues in VFX (like asset versioning and tool management). This framework is a working demonstration of my abilities in automation and backend development.
-
-* **Demonstrating Skills In:** Pipeline Logic, Tool Automation, Database Integration (PostgreSQL), and UI Development.
-* **Key Technologies:** Python, PostgreSQL, OpenUSD (Learning).
-* **Status:** Proof-of-Concept & Active Development.
-* 🔗 **[Explore the Repository](https://github.com/xololab/xolo-pipeline)**
+🎬 **Digital Artist turned Python Developer**  
+🐍 Building tools & pipelines for **VFX / Animation / CG**  
+📍 Based in **Montreal, QC (Canada)**  
 
 ---
 
-## 💻 Technical Expertise
+## 🧠 About me
 
-My skills are laser-focused on development and automation within the VFX workflow.
+I come from the **art side of VFX** — compositor, cinematography background, paint & roto —  
+and I’m transitioning into **pipeline & tools development** with Python.
 
-| Category | Key Skills & Technologies |
-| :--- | :--- |
-| **VFX / TD** | Pipeline Tools (Python), **OpenUSD** (Learning), Blender, Foundry Nuke, GafferHQ, Lookdev/Lighting, Technical Art, Production Workflow. |
-| **Backend** | Python, FastAPI, Flask, Django (Foundations), PostgreSQL, SQLite. |
-| **Tools** | Git, Bash Scripting. |
+What drives me is **bridging artists and code**:
+- tools that *artists actually want to use*
+- pipelines that are **simple, modular, and realistic for small teams**
+- learning by **building real things**, not tutorials-only projects
 
-
-
+I may be early in my **software career**, but I work with **production mindset**, discipline, and long-term vision.
 
 ---
 
-## 📈 Activity & Connect
+## 🚀 What I'm focused on right now
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ronnyascencio&show_icons=true&theme=quiet&hide_title=true&count_private=true" alt="Ronny's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronnyascencio&theme=quiet&hide_title=true&layout=compact&langs_count=6&hide_progress=false" alt="Ronny's Top Languages" />
-</p>
+- 🧩 Designing a **modular VFX pipeline** (open source)
+- 🐍 Writing clean, maintainable **Python for DCCs**
+- 🎥 Learning **OpenUSD, lighting & lookdev** from a technical artist perspective
+- 🛠 Improving **developer workflows** (CLI tools, environments, configs)
 
-### 🌐 Let's Connect
+---
 
-I am actively looking for roles as a **Technical Artist** or **Pipeline Developer** where I can apply my unique blend of artistic insight and Python development skills.
+## ⭐ Featured project
 
-I speak **English, French, and Spanish**.
+### 🧬 Xolo Pipeline
+**An open-source VFX pipeline for freelancers, artists, and small studios**
+
+🔗 GitHub: https://github.com/xololab/xolo-pipeline  
+
+**Why it matters**
+- Inspired by real production needs (not over-engineered)
+- Focus on **clarity, portability, and ease of installation**
+- Designed for **Blender, Gaffer, Nuke**, with future scalability
+
+**What I’m learning through this project**
+- Pipeline architecture & structure
+- CLI design with `typer`
+- Environment management (`uv`, future Rez exploration)
+- DCC integration patterns
+- Writing code meant to be read, used, and extended by others
+
+This project represents **how I think and how I work**.
+
+---
+
+## 🧰 Technical skills
+
+**Languages & Scripting**
+- Python
+- Bash
+
+**Backend / Tools**
+- FastAPI
+- Flask
+- Django
+- CLI design (Typer)
+
+**Databases & Infra**
+- PostgreSQL
+- SQLite
+
+
+**DCC & CG**
+- Blender
+- Gaffer (pipeline and creative lighting learning and improvement)
+- Nuke (artist-side experience)
+- OpenUSD (learning & experimenting)
+
+---
+
+## 🧑‍🎨 Why my background matters
+
+I’m not just learning to code —  
+I understand **artists’ pain points** because I’ve been one.
+
+That means:
+- I design tools with **UX in mind**
+- I value **clear defaults over complex configs**
+- I communicate well between **technical and artistic teams**
+
+This hybrid profile is what I’m intentionally building.
+
+---
+
+## 🤝 Open to
+
+- Junior / Entry-level **Pipeline TD**
+- Tools Developer (Python)
+- Technical Artist roles
+- Open-source collaboration
+- Mentorship & code reviews
+
+I’m especially interested in teams that value **learning, clean foundations, and collaboration**.
+
+---
+
+## 🌍 Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ronnyascencio" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
+  </a>
+  <a href="https://github.com/ronnyascencio" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28"/>
   </a>
   <a href="https://ronnyascencio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-555555?style=flat-square&logo=About.me&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="28"/>
   </a>
 </p>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ronnyascencio&label=Profile%20views&color=4C566A&style=flat" alt="Profile views" />
+---
+
+## 📊 GitHub stats
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronnyascencio&theme=react&layout=compact&langs_count=6" />
 </p>
+
+---
+
+> *“I learn best by building things that might actually be used.”*
