@@ -7,7 +7,7 @@
 A digital artist with a developer mindset. I specialize in bridging the gap between creative vision and technical execution. With a background in Cinematography and Compositing, I build production-ready tools with a deep understanding of the artist's workflow.
 
 * 🎯 **Target Roles:** Pipeline TD | Lighting TD | Compositing TD.
-* 🚀 **Current Focus:** Developing [Xolo Pipeline](https://github.com/xololab/xolo-pipeline) — a modular VFX core.
+* 🚀 **Current Focus:** Developing [Ateru](https://github.com/ronnyascencio/ateru) — a modular VFX core.
 * 🦀 **Tech Evolution:** Transitioning core logic from **Python** to **Rust** for high-performance CG tooling.
 
 ---
@@ -19,7 +19,7 @@ A digital artist with a developer mindset. I specialize in bridging the gap betw
 
 ---
 
-### 🚀 Featured Project: [Xolo Pipeline](https://github.com/xololab/xolo-pipeline)
+### 🚀 Featured Project: [Ateru](https://github.com/ronnyascencio/ateru)
 An open-source pipeline framework designed for modularity and portability. It serves as my primary sandbox for implementing **automated lighting & comp workflows** across Blender, Gaffer, and Nuke.
 
 ---
