@@ -4,17 +4,17 @@
 ---
 
 ### 🧠 Profile
-A digital artist with a developer mindset. I specialize in bridging the gap between creative vision and technical execution. With a background in Cinematography and Compositing, I build production-ready tools with a deep understanding of the artist's workflow.
+A digital artist with a developer mindset. I specialize in bridging the gap between creative vision and technical execution. With a background in Cinematography and Compositing.
 
 * 🎯 **Target Roles:** Pipeline TD | Lighting TD | Compositing TD.
 * 🚀 **Current Focus:** Developing [Ateru](https://github.com/ronnyascencio/ateru) — a modular VFX core.
-* 🦀 **Tech Evolution:** Transitioning core logic from **Python** to **Rust** for high-performance CG tooling.
+
 
 ---
 
 ### 🛠 Technical Toolkit
-- **Languages:** `Python` (DCC Tools & APIs), `Rust` (WIP/Performance), `Bash`.
-- **DCC & CG:** `Nuke` (Comp TD skills), `Gaffer` (Lighting & Lookdev), `Blender`, `OpenUSD`.
+- **Languages:** `Python` (DCC Tools & APIs), `Bash`.
+- **DCC & CG:** `Nuke` (Comp TD skills), `Gaffer`, `Maya` (Lighting & Lookdev), `Blender`, `OpenUSD`.
 - **Pipeline & Dev:** `CLI Design`, `Environment Management (uv/rez)`, `Git`, `FastAPI`.
 
 ---
